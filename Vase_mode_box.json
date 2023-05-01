@@ -1,0 +1,110 @@
+{
+    "parameterSets": {
+        "Vasco-digipass": {
+            "cylinder_segments": "64",
+            "depth": "14.5",
+            "height": "75",
+            "lid": "20",
+            "render": "both",
+            "ridge_a": "30",
+            "ridge_h": "0.8",
+            "shape": "rectangle",
+            "tolerance": "0.1",
+            "wall": "0.6",
+            "width": "47.5"
+        },
+        "Loratadine-generic": {
+            "cylinder_segments": "64",
+            "depth": "24.8",
+            "height": "99.4",
+            "lid": "26.4",
+            "render": "both",
+            "ridge_a": "30",
+            "ridge_h": "0.8",
+            "shape": "rectangle",
+            "tolerance": "0.1",
+            "wall": "0.6",
+            "width": "47.3"
+        },
+        "Pukka-TeaBox": {
+            "cylinder_segments": "64",
+            "depth": "70",
+            "height": "135.4",
+            "lid": "13",
+            "render": "both",
+            "ridge_a": "30",
+            "ridge_h": "0.8",
+            "shape": "rectangle",
+            "tolerance": "0.1",
+            "wall": "0.6",
+            "width": "80"
+        },
+        "Pokerchip-tube": {
+            "cylinder_segments": "80",
+            "depth": "40",
+            "height": "60",
+            "lid": "12",
+            "render": "lid",
+            "ridge_a": "30",
+            "ridge_h": "0.8",
+            "shape": "cylinder",
+            "tolerance": "0.1",
+            "wall": "0.6",
+            "width": "40"
+        },
+        "Funky octagonal box": {
+            "cylinder_segments": "8",
+            "depth": "30",
+            "height": "50",
+            "lid": "10",
+            "render": "both",
+            "ridge_a": "30",
+            "ridge_h": "0.8",
+            "shape": "cylinder",
+            "tolerance": "0.1",
+            "wall": "0.6",
+            "width": "50"
+        },
+        "TeaBox-ButterflyBrand": {
+            "cylinder_segments": "64",
+            "depth": "64",
+            "height": "127",
+            "lid": "14",
+            "render": "both",
+            "ridge_a": "30",
+            "ridge_h": "0.8",
+            "shape": "rectangle",
+            "tolerance": "0.1",
+            "wall": "0.6",
+            "width": "72"
+        },
+        "TissueBox": {
+            "cylinder_segments": "64",
+            "depth": "25.4",
+            "height": "102",
+            "lid": "20",
+            "render": "both",
+            "ridge_a": "30",
+            "ridge_h": "0.8",
+            "shape": "rectangle",
+            "tolerance": "0.1",
+            "wall": "0.6",
+            "width": "55"
+        },
+        "NeoCube storage": {
+            "corner": "2.3",
+            "cylinder_segments": "32",
+            "depth": "28.4",
+            "height": "28",
+            "lid": "7",
+            "render": "both",
+            "ridge_a": "30",
+            "ridge_h": "0.8",
+            "shape": "rectangle",
+            "tolerance": "0.1",
+            "wall": "0.6",
+            "width": "28.4"
+        }
+    },
+    "fileFormatVersion": "1"
+}
