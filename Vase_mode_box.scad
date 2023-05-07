@@ -1,5 +1,5 @@
 /* Customizable vase mode box
- * By DrLex, v1.1 2020/05
+ * By DrLex, v1.2 2023/05
  * Released under Creative Commons - Attribution - Share Alike license */
 
 /* [General] */
